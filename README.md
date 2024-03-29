@@ -10,7 +10,7 @@ Enjoy a user-friendly interface inspired by Netflix's design.
 Responsive design for optimal viewing experience across devices.
 
 Demo:
-The Netflix Clone is hosted on Vercel. You can access it at netflix-ritankar.vercel.app.
+The Netflix Clone is hosted on Vercel. You can access it at [netflix-ritankar.vercel.app.](https://netflix-ritankar.vercel.app/sign-up)
 
 How to Run:
 To run this project locally, follow these steps:
